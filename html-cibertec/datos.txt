@@ -1,0 +1,4 @@
+Gitlab: https://gitlab.com/r2d2klapa/vs2017-web-201903
+Slack: https://join.slack.com/t/201903-70-vs/shared_invite/enQtNjcwMjIzOTkyNDIwLTk5OWYxZDdjZTRiM2Q2ODViZDlmZWUxN2FmOWQ3OTRlMDY3OTY2NjQ2OTFlMmZkNjYwYzY2NTdlNjliZTJkMzU
+
+https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css

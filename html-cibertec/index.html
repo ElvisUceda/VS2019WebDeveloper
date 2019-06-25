@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mi primera web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+        <h1>Mi primera web</h1>
+        <section>
+            <span>Este es un span</span>
+        </section>
+        <hr>
+        <section style="background: cyan">
+            <pre>
+                    var miPrimeraWEb = true;
+                </pre>
+            <p>
+                Este es un párrafo
+            </p>
+     </section>
+     <section>
+        <h3>Listas</h3>
+        <ul>
+            <li>Item1</li>
+            <li>Item2</li>
+            <li>Item3</li>
+            <li>Item4</li>
+        </ul>
+     </section>
+     <section>
+         <h3>
+             Links
+         </h3>
+         <a href="http://www.cibertec.edu.pe" target="_blank" title="Ir a Cibertec">
+            <img src="https://www.cibertec.edu.pe/images/logo-cibertec.png" alt="Logo Cibertec">
+         </a>
+     </section>
+     <section>
+         <h3>Tablas</h3>
+         <table border=1>
+            <thread>
+                <tr>
+                    <th>Cabecera1</th>
+                    <th>Cabecera2</th>
+                </tr>
+            </thread>      
+            <tbody>
+                <tr>
+                    <td>Este es el body de la tabla</td>
+                    <td>otra columna</td>
+                </tr>
+                <tr>
+                        <td>Este es el body de la tabla</td>
+                        <td>otra columna</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">Ocupo 2 columnas</td>
+                    </tr>
+            </tbody>
+
+         </table>
+     </section>
+     <section>
+     <h3>Forms</h3>
+     <form method="POST">
+        <div>
+            <label for="nombre">Ingresa tu nombre</label>
+            <input type="text" name="nombre" id="nombre">
+        </div>
+        <div>
+            <label for="sexo"> Selecciona tu sexo</label>
+            <select name="sexo" id="sexo">
+                <option>Masculino</option>
+                <option>Femenino</option>
+            </select>
+        </div>
+        <div>
+            <label for="radio">Radio</label>
+            <input type="radio" name="radio1" value="Radio 1">
+            <input type="radio" name="radio1" value="Radio 2">
+        </div>
+        <div>
+            <label for="fecha">Ingresa tu fecha de nacimiento</label>
+            <input type="date" name="fecha" id="fecha" value="2019-06-24"
+            min="2019-06-24" max="2019-12-24">
+        </div>
+        
+        <div>
+            <input type="submit" value="Guardar">
+        </div>
+    </form>
+    </section>
+</body>
+</html>
