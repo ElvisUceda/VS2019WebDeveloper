@@ -3,5 +3,3 @@ Slack: https://join.slack.com/t/201903-70-vs/shared_invite/enQtNjcwMjIzOTkyNDIwL
 
 https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 
-
-ffg
